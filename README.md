@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @codedeliveryservice!
 - 👀 I’m interested in C#, ASP.NET Core, clean coding practices and software architecture.
-- 🌱 I’m currently learning web developments with ASP.NET Core and related.
-- 💞️ I’m looking to collaborate on C# projects.
+- 🌱 I’m currently learning web development with ASP.NET Core and related.
 - 📫 You can reach me through email: ars.surkov@gmail.com
